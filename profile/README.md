@@ -1,4 +1,4 @@
-# Briquex Company
+![Briquex Prototype](./Briquex_prototipo_1.png)
 
 ## Repositorio oficial de **Briquex**, estudio de arquitectura y constructora.
 
